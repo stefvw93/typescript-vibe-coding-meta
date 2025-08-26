@@ -9,6 +9,11 @@ This is a Deno TypeScript project - a modern JavaScript/TypeScript runtime
 alternative to Node.js. Deno executes TypeScript directly without requiring a
 build step.
 
+This repository was created to support the article
+["The TypeScript Vibe Coding Meta"](https://stefvanwijchen.com/the-typescript-vibe-coding-meta)
+by Stef van Wijchen, demonstrating modern TypeScript development patterns and
+best practices.
+
 ## Key Commands
 
 ### Development
